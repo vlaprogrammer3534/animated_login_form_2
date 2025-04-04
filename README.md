@@ -37,10 +37,6 @@ This is an animated login form built using **HTML**, **CSS**, and **JavaScript**
 ## License
 This project is open source and available under the MIT License.
 
-### Steps to follow:
-1. Replace `screenshot.png` with the actual name of your screenshot file.
-2. Replace the YouTube link with the actual URL to your YouTube video tutorial.
-3. Add the **MIT License** or the license of your choice if applicable, or remove that section if not needed.
 
 Once your **`README.md`** is ready:
 1. Add it to your repository:
